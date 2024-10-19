@@ -1,0 +1,6 @@
+# Import packages:
+pandas
+numpy
+
+# Hugging Face
+huggingface_hub
